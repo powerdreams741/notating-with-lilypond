@@ -14,7 +14,7 @@
 \key c \minor
 c8\mf c g' b
 a aes <g d>4
-f4 f\p e e
+f8\p f e e
 d d c2
 
 }
