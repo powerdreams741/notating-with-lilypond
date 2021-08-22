@@ -4,7 +4,7 @@
 }
 
 \relative c' {
-  c8\mf\p c g' b
+  c8\mf c g' b
   a8 a8 <g d>4
 }
   f8 f8 e8 e8
@@ -14,7 +14,7 @@
 \key c \minor
 c8\mf c g' b
 a aes <g d>4
-f4 f e e
+f4 f\p e e
 d d c2
 
 }
