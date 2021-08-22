@@ -8,7 +8,7 @@
   a8 a8 <c g>4
 }
   f8 f8 e8 e8
-  d4 d4 c{
+  d4 d4 c g{
 \time 2/4
 
 }
