@@ -5,7 +5,10 @@
 
 \relative c' {
   c8\mf c g' b
-  a8 a8 <g d>4
+  a8 a8 <g d>...{
+/time2/4
+...
+}
   f8 f8 e8 e8
   d4 d4 c2
 }
