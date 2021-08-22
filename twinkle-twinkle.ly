@@ -13,7 +13,7 @@
 \time 4/4
 \key c \minor
 c8\mf c g' b
-a ab <g d>4
+a aes <g d>4
 f4 f e e
 d d c2
 
